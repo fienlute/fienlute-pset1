@@ -12,6 +12,7 @@
 		EE5DF1D81DC8A8CA007DCAC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5DF1D61DC8A8CA007DCAC2 /* Main.storyboard */; };
 		EE5DF1DA1DC8A8CA007DCAC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5DF1D91DC8A8CA007DCAC2 /* Assets.xcassets */; };
 		EE5DF1DD1DC8A8CA007DCAC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5DF1DB1DC8A8CA007DCAC2 /* LaunchScreen.storyboard */; };
+		EEB66BB11DCD301500A5084D /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = EEB66BB01DCD301500A5084D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EE5DF1D91DC8A8CA007DCAC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE5DF1DC1DC8A8CA007DCAC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE5DF1DE1DC8A8CA007DCAC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEB66BB01DCD301500A5084D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EE5DF1D91DC8A8CA007DCAC2 /* Assets.xcassets */,
 				EE5DF1DB1DC8A8CA007DCAC2 /* LaunchScreen.storyboard */,
 				EE5DF1DE1DC8A8CA007DCAC2 /* Info.plist */,
+				EEB66BB01DCD301500A5084D /* README.md */,
 			);
 			name = "app 1";
 			path = oefening;
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEB66BB11DCD301500A5084D /* README.md in Sources */,
 				EE5DF1D51DC8A8CA007DCAC2 /* ViewController.swift in Sources */,
 				EE5DF1D31DC8A8CA007DCAC2 /* AppDelegate.swift in Sources */,
 			);
