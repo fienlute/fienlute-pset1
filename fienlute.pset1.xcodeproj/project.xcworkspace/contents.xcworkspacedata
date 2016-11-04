@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:oefening.xcodeproj">
+      location = "self:/Users/fienlute/Desktop/oefening/fienlute.pset1.xcodeproj">
    </FileRef>
 </Workspace>
